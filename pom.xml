@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.apiGateway</groupId>
-	<artifactId>TotalShakeGateway</artifactId>
+	<artifactId>TotalShake-APIGateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>TotalShakeGateway</name>
+	<name>TotalShake-APIGateway</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>18</java.version>
